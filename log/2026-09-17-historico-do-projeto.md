@@ -27,19 +27,38 @@ estática (Apache).
    - Compressão gzip
    - Cabeçalhos de segurança
 
-## Alterações pendentes (working tree) documentadas nesta sessão
+## Alterações incluídas nesta sessão
 
 **Arquivo:** `marmorariagoiania.com-main/index.html`
 
-- Adição de meta tag `keywords`:
-  `marmoraria goiania, marmoraria, marmoraria go, marmores goiania, marmores go, marmoraria perto, marmoraria em goiania, marmoraria em go`
-- Atualização das diretivas de indexação para buscadores, ampliando o
-  conteúdo das tags `robots`, `googlebot` e adicionando `bingbot`:
-  - Antes: `content="index,follow"`
-  - Depois: `content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"`
+1. Meta tags de SEO (já registradas anteriormente):
+   - Adição de meta tag `keywords`:
+     `marmoraria goiania, marmoraria, marmoraria go, marmores goiania, marmores go, marmoraria perto, marmoraria em goiania, marmoraria em go`
+   - Atualização das diretivas de indexação para buscadores, ampliando o
+     conteúdo das tags `robots`, `googlebot` e adicionando `bingbot`:
+     - Antes: `content="index,follow"`
+     - Depois: `content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"`
 
-Essas mudanças são melhorias de SEO (palavras-chave e diretivas mais
-detalhadas de snippet/preview de imagem e vídeo para os robôs de busca).
+2. Nova seção **"Tipos de Materiais que Trabalhamos"**, inserida antes da
+   seção de Blog, com um grid de 13 cards descrevendo os materiais
+   trabalhados: Mármore, Granito, Quartzo, Quartzito, Silestone, Ardósia,
+   Travertino, Ônix, Nanoglass, Dekton, Limestone (Calcário) e Porcelanato.
+
+3. Nova seção de **FAQ ("Dúvidas Sobre a Marmoraria em Goiânia")**,
+   inserida após a seção de Blog, com 6 perguntas e respostas focadas em
+   SEO local/conversão:
+   - Quanto custa contratar uma marmoraria em Goiânia?
+   - Como escolher uma marmoraria Go confiável?
+   - Quais granitos em Goiânia são mais indicados para bancada de cozinha?
+   - Quanto tempo leva para instalar uma bancada de mármore ou granito?
+   - A marmoraria em Goiânia atende toda a região metropolitana?
+   - É melhor optar por mármore, granito ou quartzo?
+
+Essas mudanças são melhorias de SEO e conteúdo: palavras-chave e diretivas
+mais detalhadas para os robôs de busca, além de conteúdo adicional
+(materiais trabalhados e FAQ) para aumentar relevância temática, tempo de
+permanência na página e cobertura de buscas de cauda longa relacionadas a
+"marmoraria em Goiânia".
 
 ## Estrutura atual do repositório
 
